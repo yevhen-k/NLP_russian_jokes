@@ -1,8 +1,10 @@
-лемматизация
+lemmatization
 
-стемминг
+stemming
 
 stop words
+
+https://www.kaggle.com/alxmamaev/how-to-easy-preprocess-russian-text
 
 http://www.redhenlab.org/home/the-cognitive-core-research-topics-in-red-hen/the-barnyard/russian-nlp
 
