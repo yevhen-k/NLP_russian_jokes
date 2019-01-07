@@ -12,4 +12,6 @@ https://primer.ai/blog/Russian-Natural-Language-Processing/
 
 https://habr.com/company/mailru/blog/358736/
 
+https://habr.com/post/346206/
+
 https://towardsdatascience.com/the-10-most-useful-machine-learning-projects-of-the-past-year-2018-5378bbd4919f
