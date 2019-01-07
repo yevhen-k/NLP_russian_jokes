@@ -1,4 +1,4 @@
-lemmatization
+lemmatization (pymystem3, pymorphy2)
 
 stemming
 
